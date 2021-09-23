@@ -1,2 +1,133 @@
 # BiCIKL-Hackathon
 Documentation of our work during the BiCIKL Hackathon
+
+
+
+# GBIF Occurences
+
+1. Taxonomic names were extracted from GBIF occurences using the following SQL script.
+
+`CREATE TABLE 
+tim.names 
+row format delimited fields terminated by '\t'
+AS
+SELECT
+  v_scientificnameid , 
+  v_acceptednameusageid , 
+  v_parentnameusageid , 
+  v_originalnameusageid , 
+  v_nameaccordingtoid , 
+  v_namepublishedinid , 
+  v_taxonconceptid , 
+  v_scientificname , 
+  v_acceptednameusage , 
+  v_parentnameusage , 
+  v_originalnameusage , 
+  v_higherclassification , 
+  v_kingdom , 
+  v_phylum , 
+  v_class , 
+  v_order , 
+  v_family , 
+  v_genus , 
+  v_subgenus , 
+  v_specificepithet , 
+  v_infraspecificepithet , 
+  v_taxonrank , 
+  v_verbatimtaxonrank , 
+  v_scientificnameauthorship , 
+  v_vernacularname , 
+  v_taxonremarks , 
+  scientificname , 
+  acceptednameusage , 
+  parentnameusage , 
+  originalnameusage , 
+  nameaccordingto , 
+  namepublishedin , 
+  namepublishedinyear , 
+  higherclassification , 
+  kingdom , 
+  phylum , 
+  class , 
+  order_ , 
+  family , 
+  genus , 
+  subgenus , 
+  specificepithet , 
+  infraspecificepithet , 
+  kingdomkey , 
+  phylumkey , 
+  classkey , 
+  orderkey , 
+  familykey , 
+  genuskey , 
+  subgenuskey , 
+  specieskey , 
+  species , 
+  genericname , 
+  acceptedscientificname ,   
+  typifiedname 
+FROM prod_h.occurrence
+WHERE basisOfRecord = 'PRESERVED_SPECIMEN' 
+AND kingdomKey=6
+GROUP BY 
+  v_scientificnameid , 
+  v_acceptednameusageid , 
+  v_parentnameusageid , 
+  v_originalnameusageid , 
+  v_nameaccordingtoid , 
+  v_namepublishedinid , 
+  v_taxonconceptid , 
+  v_scientificname , 
+  v_acceptednameusage , 
+  v_parentnameusage , 
+  v_originalnameusage , 
+  v_higherclassification , 
+  v_kingdom , 
+  v_phylum , 
+  v_class , 
+  v_order , 
+  v_family , 
+  v_genus , 
+  v_subgenus , 
+  v_specificepithet , 
+  v_infraspecificepithet , 
+  v_taxonrank , 
+  v_verbatimtaxonrank , 
+  v_scientificnameauthorship , 
+  v_vernacularname , 
+  v_taxonremarks , 
+  scientificname , 
+  acceptednameusage , 
+  parentnameusage , 
+  originalnameusage , 
+  nameaccordingto , 
+  namepublishedin , 
+  namepublishedinyear , 
+  higherclassification , 
+  kingdom , 
+  phylum , 
+  class , 
+  order_ , 
+  family , 
+  genus , 
+  subgenus , 
+  specificepithet , 
+  infraspecificepithet , 
+  kingdomkey , 
+  phylumkey , 
+  classkey , 
+  orderkey , 
+  familykey , 
+  genuskey , 
+  subgenuskey , 
+  specieskey , 
+  species , 
+  genericname , 
+  acceptedscientificname ,   
+  typifiedname `
+  
+  2. The verbatim names from `v_scientificname` , `v_acceptednameusage` , `v_originalnameusage` were merged together into a single long list
+  3. Names from this long list where extracted in batches
+  * Names with `=` in seemed to be hybrid formulas with hybrid names e.g. `Amaranthus x ozanonii Thell. in Asch. & Graebn. (=A. hybridus L.x A. retroflexus L.)`
+  * These names can be found in file hybridnamesWithHybridFormulasFromOccurences.txt
