@@ -1,0 +1,839 @@
+Equisetum ×litorale Kühlewein ex Ruprecht
+Equisetum ×font-queri Rothmaler
+Equisetum ×nelsonii (A.A. Eaton) J.H. Schaffner
+Equisetum ×ferrissii Clute
+Equisetum ×mackayi (Newman) Brichan
+Isoetes ×eatonii Dodge
+Isoetes ×echtuckerii D.F. Brunton & D.M. Britton
+Isoetes ×foveolata A.A. Eaton ex Dodge
+Isoetes ×harveyi A.A. Eaton
+Isoetes ×hickeyi W.C. Taylor & Luebke
+Isoetes ×jeffreyi D.M. Britton & D.F. Brunton
+Isoetes ×pseudotruncata D.M. Britton & D.F. Brunton
+Isoetes ×truncata (A.A. Eaton) Clute
+Isoetes ×brittonii D.F. Brunton & W.C. Taylor
+Isoetes ×marensis D.M. Britton & D.F. Brunton
+Isoetes ×robusta (Engelmann) D.F. Brunton
+Isoetes echinospora × Isoetes laurentiana
+Huperzia ×buttersii (Abbe) Kartesz & Gandhi
+Huperzia ×josephbeitelii A. Haines
+Huperzia ×protoporophila A. Haines
+Huperzia continentalis × Huperzia occidentalis
+Huperzia continentalis × Huperzia selago
+Diphasiastrum ×habereri (House) Holub
+Diphasiastrum ×sabinifolium (Willdenow) Holub
+Diphasiastrum ×takedae Ivanenko
+Diphasiastrum ×zeilleri (Rouy) Holub
+Diphasiastrum ×verecundum A.V. Gilman
+Lobelia ×speciosa Sweet
+Erigeron ×arthurii B. Boivin
+Oclemena ×blakei (Porter) G.L. Nesom
+Solidago sempervirens × Solidago uliginosa
+Solidago ×erskinei B. Boivin
+Solidago ×asperula Desfontaines
+Solidago bicolor × Solidago brendae
+Solidago ×bartramiana Fernald
+Solidago ×calcicola (Fernald) Fernald
+Solidago ×beaudryi B. Boivin
+Solidago nemoralis subsp. nemoralis × Solidago uliginosa
+Solidago brendae × Solidago sempervirens
+Solidago ×lutescens (Lindley ex de Candolle) B. Boivin
+Solidago ×krotkovii B. Boivin
+Solidago ×bernardii B. Boivin
+Symphyotrichum ×tardiflorum (Linnaeus) Greuter, M.V. Aghababian & Wagenitz
+Symphyotrichum ×subgeminatum (Fernald) G.L. Nesom
+Symphyotrichum ciliolatum × Symphyotrichum laeve
+Symphyotrichum anticostense × Symphyotrichum novi-belgii var. novi-belgii
+Symphyotrichum laeve var. laeve × Symphyotrichum lanceolatum subsp. lanceolatum var. lanceolatum
+Symphyotrichum lanceolatum subsp. lanceolatum × Symphyotrichum lateriflorum
+Symphyotrichum laeve var. laeve × Symphyotrichum lateriflorum
+Symphyotrichum ×amethystinum (Nuttall) G.L. Nesom
+Liatris ×gladewitzii (Farwell) Shinners
+Liatris ×spheroidea Michaux
+Antennaria ×erigeroides Greene
+Ambrosia ×helenae Rouleau
+Helianthus ×laetiflorus Persoon
+Packera aurea × Packera schweinitziana
+Petasites frigidus var. ×vitifolius (Greene) Cherniawsky
+Arctium ×mixtum (Simonkai) Nyman
+Arctium ×nothum (Ruhmer) J. Weiss
+Carduus ×orthocephalus Wallroth
+Centaurea ×moncktonii C.E. Britton
+Centaurea ×psammogena Gáyer
+Cirsium ×vancouverense R.J. Moore & Frankton
+Agoseris ×agrestis Osterhout
+Agoseris ×elata (Nuttall) Greene
+Hieracium ×marianum Willdenow
+Hieracium ×fassettii Lepage
+Hieracium ×grohii Lepage
+Nabalus ×mainensis (A. Gray) A. Heller
+Tragopogon ×crantzii Dichtl
+Tragopogon ×mirabilis Rouy
+Tragopogon ×neohybridus Farwell
+Pilosella ×floribunda (Wimmer & Grabowski) Fries
+Symphytum ×uplandicum Nyman
+Cornus ×acadiensis Fernald
+Cornus ×lepagei Gervais & Blondeau
+Cornus ×slavinii Rehder
+Lonicera ×bella Zabel
+Lonicera ×xylosteoides Tausch
+Pyrola asarifolia × Pyrola minor
+Pyrola grandiflora × Pyrola minor
+Andromeda polifolia var. ×jamesiana (Lepage) B. Boivin
+Vaccinium ×nubigenum Fernald
+Arctostaphylos ×media Greene
+Phyllodoce ×intermedia (Hooker) Rydberg
+Rhododendron ×columbianum (Piper) Harmaja
+Rhododendron ×vanhoeffeni Abromeit
+Lysimachia ×commixta Fernald
+Lysimachia ×producta (A. Gray) Fernald
+Primula ×morissetii Lepage
+Primula ×polyantha P. Miller
+Apocynum ×floribundum Greene
+Asclepias speciosa × Asclepias syriaca
+Gentiana ×billingtonii Farwell
+Gentiana ×pallidocyanea J.S. Pringle
+Galium ×pomeranicum Retzius
+Catalpa ×erubescens Carrière
+Lycopus ×sherardii E.S. Steele
+Lycopus americanus × Lycopus europaeus
+Mentha ×dumetorum Schultes
+Mentha ×gentilis Linnaeus
+Mentha ×muelleriana F.W. Schultz
+Mentha ×piperita Linnaeus
+Mentha ×smithiana R.A. Graham
+Mentha ×villosa Hudson
+Mentha ×villosa var. alopecuroides (Hull) Briquet
+Monarda ×media Willdenow
+Scutellaria ×churchilliana Fernald
+Mimulus alatus × Mimulus ringens
+Linaria ×sepium G.J. Allman
+Verbena ×deamii Moldenke
+Verbena ×engelmannii Moldenke
+Verbena ×perriana Moldenke
+Verbena ×rydbergii Moldenke
+Nicotiana ×sanderae hort. ex W. Watson
+Petunia ×atkinsiana (Sweet) D. Don ex W.H. Baxter
+Amaranthus ×budensis Priszter
+Amaranthus ×ozanonii Thellung
+Amaranthus ×soproniensis Priszter & Kárpáti
+Amaranthus hybridus × Amaranthus powellii subsp. powellii
+Amaranthus hybridus × Amaranthus tuberculatus var. tuberculatus
+Amaranthus hybridus × Amaranthus tuberculatus var. rudis
+Opuntia ×columbiana Griffiths
+Silene ×hampeana Meusel & K. Werner
+Drosera ×linglica Kusakabe ex R. Gauthier & Gervais
+Drosera ×obovata Mertens &  W.D.J. Koch
+Drosera ×woodii Gauthier & Gervais
+Drosera ×eloisiana T.S. Bailey
+Claytonia ×washingtoniana (Suksdorf) Suksdorf
+Koenigia ×fennica (Reiersen) T.M. Schuster & Reveal
+Persicaria hydropiperoides × Persicaria robustior
+Polygonum fowleri subsp. fowleri × Polygonum fowleri subsp. hudsonianum
+Reynoutria ×bohemica Chrtek & Chrtková
+Rumex ×alexidus B. Boivin
+Rumex ×franktonis B. Boivin
+Rumex ×pratensis Mertens &  W.D.J. Koch
+Triglochin gaspensis × Triglochin maritima
+Potamogeton ×ogdenii Hellquist & R.L. Hilton
+Potamogeton ×cognatus Ascherson & Graebner
+Potamogeton ×faxonii Morong
+Potamogeton ×griffithii A. Bennett
+Potamogeton ×hagstroemii A. Bennett
+Potamogeton ×haynesii C.B. Hellquist & G.E. Crow
+Potamogeton ×nericus Hagström
+Potamogeton ×nitens Weber
+Potamogeton ×saxonicus Hagström
+Potamogeton ×schreberi Fischer
+Potamogeton ×sparganiifolius Laestadius ex Fries
+Potamogeton ×spathuliformis (J.W. Robbins) Morong
+Potamogeton ×methyensis (A. Bennett) A. Bennett
+Potamogeton ×rhodensis A. Bennett
+Potamogeton ×absconditus Z. Kaplan , Fehrer & Hellquist
+Stuckenia ×suecica (Richter) Holub
+Hyacinthoides ×massartiana Geerinck
+Iris ×robusta E.S. Anderson
+Iris ×sancti-cyri J. Rousseau
+Iris ×germanica Linnaeus
+Crocosmia ×crocosmiiflora (Lemoine) N.E. Brown
+Cypripedium ×andrewsii A.M. Fuller
+Cypripedium ×columbianum Sheviak
+Cypripedium ×herae Ewacha & Sheviak
+Neottia ×veltmanii (Case) Baumbach
+Platanthera ×andrewsii (M. White) Luer
+Platanthera ×hollandiae P.M. Catling & Brownell
+Platanthera grandiflora × Platanthera lacera
+Platanthera ×reznicekii P.M. Catling, Brownell & G. Allen
+Platanthera ×vossii Case
+Spiranthes ×borealis P.M. Brown
+Spiranthes ×intermedia Ames
+Spiranthes ×simpsonii Catling & Sheviak
+Streptopus ×oreopolus Fernald
+Carex ×fulva Goodenough
+Carex ×pieperiana Junge
+Carex ×schatzii Kneucker
+Carex ×subviridula (Kükenthal) Fernald
+Carex ×xanthocarpa Degland
+Carex brunnescens subsp. brunnescens × Carex canescens subsp. canescens
+Carex canescens subsp. canescens × Carex praeceptorum
+Carex canescens subsp. canescens × Carex trisperma
+Carex glareosa subsp. glareosa × Carex lachenalii
+Carex ×clausa Holmberg
+Carex ×helvola Blytt ex Fries
+Carex ×kyyhkynenii Hidén
+Carex ×pseudohelvola Kihlman
+Carex ×trichina Fernald
+Carex ×zahnii Kneucker
+Carex castanea × Carex debilis
+Carex ×knieskernii Dewey
+Carex bigelowii subsp. bigelowii × Carex rariflora
+Carex bigelowii subsp. bigelowii × Carex stylosa
+Carex buxbaumii × Carex stricta
+Carex folliculata × Carex lurida
+Carex lachenalii × Carex parallela
+Carex lacustris × Carex trichocarpa
+Carex lenticularis × Carex saxatilis
+Carex macrochaeta × Carex spectabilis
+Carex nigra × Carex stylosa
+Carex saxatilis × Carex stylosa
+Carex ×langeana Fernald
+Carex ×limosoides J. Cayouette
+Carex ×mirata Dewey
+Carex ×neomiliaris Lepage
+Carex ×patuensis Lepage
+Carex ×quebecensis Lepage
+Carex ×soerensenii Lepage
+Carex ×sullivantii Boott
+Carex ×cayouettei A. Bergeron
+Carex maritima × Carex parallela
+Carex lupulina × Carex lurida
+Carex ×connectens Holmberg
+Carex ×firmior (Norman) Holmberg
+Carex adusta × Carex foenea
+Carex bebbii × Carex cristatella
+Carex brevior × Carex foenea
+Carex cumulata × Carex foenea
+Carex cumulata × Carex scoparia
+Carex foenea × Carex praticola
+Carex foenea × Carex tenera var. tenera
+Carex foenea × Carex xerantica
+Carex scoparia × Carex silicea
+Carex ×subimpressa Clokey
+Carex aquatilis var. aquatilis × Carex aquatilis var. minor
+Carex aquatilis var. aquatilis × Carex stricta
+Carex aquatilis var. dives × Carex lyngbyei
+Carex bigelowii subsp. bigelowii × Carex rufina
+Carex bigelowii subsp. bigelowii × Carex ×subsalina
+Carex bigelowii subsp. lugens × Carex scopulorum
+Carex crinita var. crinita × Carex lenticularis
+Carex lyngbyei × Carex nigra
+Carex paleacea × Carex stricta
+Carex paleacea × Carex vacillans
+Carex recta × Carex stricta
+Carex ×arctophila Nylander
+Carex ×crinitoides Lepage
+Carex ×dumanii Lepage
+Carex ×exsalina Lepage
+Carex ×flavicans (F. Nylander) F. Nylander
+Carex ×grantii A. Bennett
+Carex ×haematolepis Drejer
+Carex ×limula Fries
+Carex ×mendica Lepage
+Carex ×nearctica Raymond
+Carex ×neobigelowii Lepage
+Carex ×neofilipendula Lepage
+Carex ×neorigida Lepage
+Carex ×persalina Lepage
+Carex ×reducta S. Drejer
+Carex ×rollandii Lepage
+Carex ×saxenii Raymond
+Carex ×spiculosa Fries
+Carex ×subpaleacea J. Cayouette
+Carex ×subrecta J. Cayouette
+Carex ×ungavensis Lepage
+Carex ×groenlandica Lange
+Carex microchaeta × Carex podocarpa
+Carex aquatilis var. dives × Carex kelloggii var. kelloggii
+Carex kelloggii var. kelloggii × Carex spectabilis
+Carex atrosquama × Carex media
+Carex media × Carex norvegica
+Carex ×quirponensis Fernald
+Carex ×sardloquensis Dahl
+Carex echinata subsp. echinata × Carex exilis
+Carex interior × Carex sterilis
+Carex ×minganinsularum Raymond
+Carex exsiccata × Carex rostrata
+Carex ×massonii R. Cayouette & Lepage
+Carex ×physocarpoides Lepage
+Carex ×stenolepis Lessing
+Carex ×involuta (Babington) Syme
+Carex ×saamica A.T.M. Pedersen & Elven
+Carex ×hartii Dewey
+Cyperus ×mesochorus Geise
+Eleocharis ×macounii Fernald
+Bolboschoenus maritimus × Bolboschoenus robustus
+Schoenoplectus ×oblongus (T. Koyama) Sojak
+Schoenoplectus acutus var. acutus × Schoenoplectus tabernaemontani
+Eriophorum ×medium Andersson
+Eriophorum ×medium subsp. ×album J. Cayouette
+Eriophorum ×medium Andersson subsp. ×medium
+Eriophorum ×pylaieanum Raymond
+Scirpus ×peckii Britton
+Scirpus cyperinus × Scirpus pedicellatus
+Juncus ×nodosiformis Fernald
+Juncus ×alpiniformis Fernald
+Juncus ×fulvescens Fernald
+Juncus ×lemieuxii B. Boivin
+Juncus ×gracilescens F.J. Hermann ex Wadmond
+Juncus ×stuckeyi M. Reinking
+Juncus nodosus × Juncus torreyi
+Juncus dudleyi × Juncus vaseyi
+Muhlenbergia ×curtisetosa (Scribner) Bush
+Sporobolus ×townsendii (H. Groves & J. Groves) P.M. Peterson & Saarela
+Sporobolus ×eatonianus P.M. Peterson & Saarela
+Sorghum bicolor subsp. ×drummondii (Steudel) de Wet
+Bromus ×pseudothominii P.M. Smith
+Glyceria ×occidentalis (Piper) J.C. Nelson
+Glyceria ×ottawensis Bowden
+Glyceria ×gatineauensis Bowden
+Calamagrostis canadensis var. canadensis × Calamagrostis canadensis var. pickeringii
+×Agropogon P. Fournier
+×Agropogon lutosus (Poiret) P. Fournier
+Alopecurus ×haussknechtianus Ascher & Graebner
+Poa ×nematophylla Rydberg
+Poa ×limosa Scribner & Williams
+Poa ×gaspensis Fernald
+×Arctodupontia Tzvelev
+×Arctodupontia scleroclada (Ruprecht) Tzvelev
+×Duarctopoa Soreng & L.J. Gillespie
+×Duarctopoa labradorica (Steudel) Soreng & L.J. Gillespie
+×Pucciphippsia Tzvelev
+×Pucciphippsia vacillans (Th. Fries) Tzvelev
+Festuca ×villosa-vivipara (Rosenvinge) E.B. Alexeev
+×Achnella Barkworth
+×Achnella caduca Barkworth
+Agropyron cristatum × Agropyron fragile
+Elymus scribneri × Elymus trachycaulus ssp. violaceum
+Elymus ×ebingeri G. Tucker
+Elymus ×maltei Bowden
+Elymus ×mossii (Lepage) Barkworth & D.R. Dewey
+Elymus ×pseudorepens (Scribner & J.G. Smith) M.E. Barkworth & D.R. Dewey
+Elymus ×saundersii Vasey
+Elymus ×yukonensis (Scribner & Merrill) Á. Löve
+Elymus ×cayouetteorum (B. Boivin) Barkworth
+Elymus lanceolatus subsp. psammophilus × Elymus trachycaulus subsp. trachycaulus
+Hordeum jubatum subsp. ×intermedium Bowden
+Leymus arenarius × Leymus mollis
+Leymus ×vancouverensis (Vasey) Pilger
+×Elyhordeum Mansfeld ex Tsitsin & K.A. Petrova
+×Elyhordeum chatangense (Roshevitz) Tzvelev
+×Elyhordeum macounii (Vasey) Barkworth & D.R. Dewey
+×Elyhordeum montanense (Scribner) Bowden
+×Elyhordeum schaackianum (Bowden) Bowden
+×Elyleymus B.R. Baum
+×Elyleymus hirtiflorus (Hitchcock) Barkworth
+×Elyleymus turneri (Lepage) Barkworth & D.R. Dewey
+×Elyleymus ungavensis (Louis-Marie) Barkworth
+×Elyleymus uclueletensis (Bowden) B.R. Baum
+×Elyleymus ontariensis (Lepage) Barkworth
+×Elyleymus jamesensis (Lepage) Barkworth
+×Leydeum Barkworth
+×Leydeum dutillyanum (Lepage) Barkworth
+×Leydeum littorale (H.J. Hodgson & W.W. Mitchell) Barkworth
+×Pascoleymus Barkworth
+×Pascoleymus bowdenii (B. Boivin) Barkworth
+Typha ×glauca Godron
+Magnolia ×soulangeana Soulange-Bodin
+Nuphar ×rubrodisca Morong
+Platanus ×hispanica Miller ex Münchhausen
+Berberis ×ottawensis C.K. Schneider
+Dicentra canadensis × Dicentra cucullaria
+Ranunculus gmelinii × Ranunculus hyperboreus
+Coptidium ×spitsbergense (Hadac) Luferov & Probatova
+Aconitum ×bicolor Schultes
+Actaea ×ludovici B. Boivin
+Rorippa ×anceps (Wahlenberg) Reichenbach
+Nasturtium ×sterilis Airy-Shaw
+Lespedeza ×longifolia de Candolle
+Lespedeza ×nuttallii Darlington
+Medicago sativa subsp. ×varia (Martyn) Arcangeli
+Robinia ×margarettae Ashe
+Betula michauxii × Betula pumila var. pumila
+Betula ×caerulea-grandis Blanchard
+Betula ×dugleana Lepage
+Betula ×dutillyi Lepage
+Betula ×eastwoodae Sargent
+Betula ×hornei B.T. Butler
+Betula ×purpusii C. Schneider
+Betula ×raymundii Lepage
+Betula ×sandbergii Britton
+Betula ×sargentii Dugle
+Betula ×utahensis Britton
+Betula ×winteri Dugle
+Betula ×commixta Sargent
+Betula ×borggreveana Zabel ex H.J.P. Winkler
+Betula ×ungavensis Lepage
+Quercus ×bebbiana C.K. Schneider
+Quercus ×deamii Trelease
+Quercus ×jackiana C.K. Schneider
+Quercus ×schuettei Trelease
+Quercus ×hawkinsii Sudworth
+Quercus ×palaeolithicola Trelease
+Carya ×laneyi Sargent
+Euphorbia ×pseudoesula Schur
+Euphorbia ×gayeri Boros & Soó
+Euphorbia ×pseudovirgata (Schur) Soó
+Euphorbia ×pseudolucida Schur
+Hypericum ×dissimulatum E.P. Bicknell
+Populus ×acuminata Rydberg
+Populus ×canescens (Aiton) Smith
+Populus ×heimburgeri B. Boivin
+Populus ×jackii Sargent
+Populus ×rouleauiana B. Boivin
+Populus deltoides var. monilifera × Populus tremuloides
+Populus ×smithii B. Boivin
+Populus ×brayshawii B. Boivin
+Populus ×hastata Dode
+Populus ×berolinensis (K. Koch) Dippel
+Populus ×canadensis Moench
+Salix barclayi × Salix barrattiana
+Salix barclayi × Salix commutata
+Salix barclayi × Salix farriae
+Salix barclayi × Salix glauca subsp. glabrescens
+Salix barclayi × Salix richardsonii
+Salix boothii × Salix glauca var. villosa
+Salix brachycarpa var. psammophila × Salix turnorii
+Salix calcicola var. calcicola × Salix richardsonii
+Salix candida × Salix famelica
+Salix candida × Salix pellita
+Salix eriocephala × Salix petiolaris
+Salix famelica × Salix pseudomonticola
+Salix glauca var. acutifolia × Salix niphoclada
+Salix hookeriana × Salix scouleriana
+Salix planifolia × Salix scouleriana
+Salix arctica × Salix herbacea
+Salix arctica × Salix polaris
+Salix arctophila × Salix glauca var. cordifolia
+Salix athabascensis × Salix pedicellaris
+Salix brachycarpa var. psammophila × Salix pyrifolia
+Salix glauca var. cordifolia × Salix pedicellaris
+Salix niphoclada × Salix setchelliana
+Salix ×brachypurpurea B. Boivin
+Salix ×peasei Fernald
+Salix ×gaspeensis C.K. Schneider
+Salix ×hebecarpa (Fernald) Fernald
+Salix chlorolepis × Salix pedicellaris
+Salix polaris × Salix rotundifolia
+Salix ×argusii B. Boivin
+Salix ×dutillyi Lepage
+Salix ×waghornei Rydberg
+Salix ×fragilis Linnaeus
+Salix ×jesupii Fernald
+Salix ×sepulcralis Simonkai
+Salix ×pendulina Wenderoth
+Salix alaxensis var. alaxensis × Salix calcicola var. calcicola
+Salix alaxensis var. alaxensis × Salix pellita
+Salix alaxensis var. alaxensis × Salix planifolia
+Salix barrattiana × Salix commutata
+Salix bebbiana × Salix petiolaris
+Salix candida × Salix myrtillifolia
+Salix candida × Salix petiolaris
+Salix candida × Salix planifolia
+Salix geyeriana × Salix lemmonii
+Salix pellita × Salix petiolaris
+Salix ×wiegandii Fernald
+Salix pellita × Salix planifolia
+Salix ×jamesensis Lepage
+Salix ×laurentiana Fernald
+Salix ×pedunculata Fernald
+Salix ×rubella Bebb ex C. K. Schneider
+Salix ×smithiana Willdenow
+Salix bebbiana × Salix humilis
+Salix ×amoena Fernald
+Salix ×bebbii Gandoger
+Salix ×beschelii B. Boivin
+Salix ×cryptodonta Fernald
+Salix ×obtusata Fernald
+Salix ×schneiderii B. Boivin
+Salix ×simulans Fernald
+Salix ×ungavensis Lepage
+Salix ×glatfelteri C.K. Schneider
+Salix ×hudsonensis C.K. Schneider
+Salix glauca var. cordifolia × Salix jejuna
+Viola macloskeyi × Viola renifolia
+Viola ×brauniae Grover ex Cooperrider
+Viola ×conjugens Greene
+Viola ×eclipes H.E. Ballard
+Viola ×malteana House
+Viola ×melissifolia Greene
+Viola ×populifolia Greene
+Viola ×porteriana Pollard
+Viola ×sublanceolata House
+Viola ×bernardii (Greene) Greene
+Viola biflora var. carlottae × Viola glabella
+Viola adunca var. adunca × Viola labradorica Linnaeus
+Hudsonia ×intermedia (Peck) Erskine
+Tilia ×europaea Linnaeus
+Epilobium ×treleasianum Léveillé
+Epilobium ×wisconsinense Ugent
+Epilobium ciliatum subsp. ciliatum × Epilobium palustre
+Chamaenerion angustifolium subsp. angustifolium × Chamaenerion latifolium
+Circaea ×sterilis Boufford
+Morus alba × Morus rubra
+Dryas ×sundermannii Kellerer ex Sundermann
+Dryas ×lewinii Rouleau
+Geum ×aurantiacum Fries ex Scheutz
+Geum ×catlingii J.-P. Bernard & R. Gauthier
+Geum ×pulchrum Fernald
+Geum ×macranthum (Kearney) B. Boivin
+Geum ×macneillii J.-P. Bernard & R. Gauthier
+Geum ×pervale B. Boivin
+Fragaria ×ananassa Duchesne ex Rozier
+Fragaria ×ananassa subsp. cuneifolia (Nuttall ex Howell) Staudt
+Fragaria ×ananassa subsp. ananassa Duchesne ex Rozier
+Potentilla ×tikhomirovii Jurtzev
+Potentilla arenosa subsp. chamissonis × Potentilla nivea
+Potentilla ×prostrata Rottbøll
+Potentilla ×tundricola Soják
+Rosa ×dulcissima Lunell
+Rosa ×warleyensis Baker
+Rosa ×canadensis W.H. Lewis
+Rosa ×churchillii W.H. Lewis
+Rosa ×engelmannii S. Watson
+Rosa ×engelmannii subsp. britannicae-columbiae W. H. Lewis
+Rosa ×engelmannii subsp. occidentalis W.H. Lewis
+Rosa ×gilmaniana W.H. Lewis
+Rosa ×hainesii W. H. Lewis
+Rosa ×harmsiana W.H. Lewis
+Rosa ×hodgdonii W.H. Lewis
+Rosa ×oldhamii W.H. Lewis
+Rosa ×per-axeliana W.H. Lewis
+Rosa ×victoriana W.H. Lewis
+Rosa ×damascena Miller
+Rosa ×centifolia Linnaeus
+Rosa ×odorata (Andrews) Sweet
+Rubus ×frondisentis Blanchard
+Rubus ×lepagei L.H. Bailey
+Rubus ×neglectus Peck
+Rubus ×paracaulis L.H. Bailey
+Rubus ×jacens Blanchard
+Rubus ×biformispinus Blanchard
+Rubus ×recurvicaulis Blanchard
+Rubus ×permixtus Blanchard
+Rubus ×ostryifolius Rydberg
+Rubus ×crux Ashe
+Rubus ×wisconsinensis L.H. Bailey
+Amelanchier ×neglecta Eggleston ex K.R. Cushman, M.B. Burgess, E.T. Doucette, & C.S. Campbell
+Amelanchier ×quinti-martii Louis-Marie
+Amelanchier bartramiana × Amelanchier spicata
+Amelanchier laevis × Amelanchier spicata
+Aronia ×prunifolia (Marshall) Rehder
+Cotoneaster ×suecicus G. Klotz
+Crataegus ×media Bechstein
+Crataegus ×kingstonensis Sargent
+Crataegus ×disperma Ashe
+Crataegus ×laurentiana Sargent
+Crataegus ×ninae-celottiae K.I. Christensen & T.A. Dickinson
+Sorbus ×splendida Hedlund
+×Sorbaronia C.K. Schneider
+×Sorbaronia arsenii (Britton ex L. Arsène) G.N. Jones
+×Sorbaronia jackii Rehder
+Spiraea ×pyramidata Greene
+Spiraea ×vanhouttei (Briot) Carrière
+Prunus ×pugetensis Jacobson & Zika
+Prunus ×cistena (N. E. Hansen) Koehne
+Rhus ×borealis Greene
+Acer ×freemanii E. Murray
+Acer nigrum × Acer saccharum
+Aesculus ×neglecta Lindley
+Vitis ×novae-angliae Fernald
+Saxifraga ×geum Linnaeus
+Micranthes lyallii × Micranthes odontoloma
+Botrychium ×watertonense W.H. Wagner
+Picea engelmannii var. engelmannii × Picea glauca
+Picea mariana × Picea rubens
+Picea ×lutzii Little
+Pinus ×murraybanksiana Righter & Stockwell
+Tsuga ×jeffreyi (Henry) Henry
+Juniperus ×fassettii B. Boivin
+Dryopteris campyloptera × Dryopteris cristata
+Dryopteris campyloptera × Dryopteris intermedia
+Dryopteris clintoniana × Dryopteris cristata
+Dryopteris ×montgomeryi Fraser-Jenkins & Widen
+Dryopteris goldieana × Dryopteris intermedia
+Dryopteris intermedia × Dryopteris marginalis
+Dryopteris ×algonquinensis D.M. Britton
+Dryopteris ×benedictii (Farwell) Wherry
+Dryopteris ×boottii (Tuckerman) Underwood
+Dryopteris ×brathaica Fraser-Jenkins & Reichstein
+Dryopteris ×burgessii B. Boivin
+Dryopteris ×dowellii (Farwell) Wherry
+Dryopteris ×mickelii Peck
+Dryopteris ×neowherryi W.H. Wagner
+Dryopteris ×pittsfordensis Slosson
+Dryopteris ×slossoniae Wherry ex Lellinger
+Dryopteris ×triploidea Wherry
+Dryopteris campyloptera × Dryopteris marginalis
+Dryopteris carthusiana × Dryopteris cristata
+Polystichum ×hagenahii Cody
+Polystichum ×potteri Barrington
+×Dryostichum W.H. Wagner
+×Dryostichum singulare W.H. Wagner
+Polypodium ×incognitum Cusick
+Woodsia ×abbeae Butters
+Woodsia ×gracilis (G. Lawson) Butters
+Woodsia ×maxonii R. Tryon
+Woodsia ×tryonis B. Boivin
+Gymnocarpium ×achriosporum Sarvela
+Gymnocarpium ×brittonianum (Sarvela) Pryer & Haufler
+Gymnocarpium ×intermedium Sarvela
+Rhus ×pulvinata Greene
+Hieracium ×fernaldii Lepage
+Betula ×neoborealis Lepage
+Carex aquatilis var. dives × Carex lenticularis var. lipocarpa
+Carex lenticularis var. lipocarpa × Carex spectabilis
+Carex ×pannewitziana Figert
+Carex ×stansalina Lepage
+Eriophorum ×porsildii Raymond
+Drosera ×belezeana E.G. Camus
+Dryopteris ×uliginosa auct. non (A. Braun ex Dowell) Kunze ex Druce
+Quercus ×porteri Trelease nom. illeg.
+Isoetes ×dodgei auct. non A.A. Eaton
+Tilia ×vulgaris Hayne
+Chamerion angustifolium subsp. angustifolium × Chamerion latifolium
+Listera ×veltmanii Case
+Platanthera ×media (Rydberg) Luer
+Bromus hordeaceus subsp. ×pseudothominei (P.M. Smith) H. Scholz
+Spartina ×caespitosa A.A. Eaton
+Fallopia ×bohemica (Chrtek & Chrtkova) J.P. Bailey
+Potamogeton ×scoliophyllus Hagström
+Dryas ×wyssiana Beauverd nom. inval.
+Salix ×rubens Schrank
+×Agroelymus adamsii J. Rousseau
+Crataegus ×fernaldii Sargent
+Betula ×uliginosa Dugle
+Sanicula ×howellii (J.M. Coulter & Rose) Shan & Constance
+Centaurea jacea subsp. ×pratensis (W.D.J. Koch) Celakovsky
+Hieracium ×dutillyanum Lepage
+Aster ×blakei (Porter) House
+Petasites ×vitifolius (Greene) Bogle
+Inula mariana var. ×falcata (Pursh) Nuttall
+Solidago ×raymondii J. Rousseau
+Oligoneuron ×krotkovii (B. Boivin) G.L. Nesom
+Oligoneuron ×lutescens (Lindley ex De Candolle) G.L. Nesom
+Aster ×amethystinus Nuttall
+Virgulus ×amethystinus (Nuttall) Reveal & Keener
+Betula ×caerulea var. grandis Blanchard
+Betula ×arbuscula Dugle
+Catalpa ×hybrida Späth
+Lobelia ×speciosa var. schneckii Bowden
+Lobelia ×speciosa var. occidentalis Bowden
+Lychnis ×loveae B. Boivin
+Silene ×intermedia (Schur) Philp nom. illeg.
+Cornus ×unalaschensis Ledebour
+Cornus ×intermedia (Farr) Calder & Roy L. Taylor p.p.
+Carex ×abitibiana Lepage
+Carex ×subsalina Lepage
+Carex ×copulata (L.H. Bailey) Mackenzie
+Carex ×macounii Dewey
+Carex ×cryptochlaena Holm
+Carex ×gauthieri Lepage
+Carex ×neopaleacea Lepage
+Carex ×paleaceoides Lepage
+Carex ×sublimosa Lepage p.p.
+Carex ×saxenii var. ferruginea Lepage
+Carex ×josephi-schmittii Raymond
+Carex ×subnigra Lepage
+Carex ×supergoodenoughii (Kükenthal) Lepage
+Carex ×subpatula Holmberg
+Carex ×corcontica Domin
+Carex ×saxenii var. dumanii (Lepage) B. Boivin
+Carex ×substans Lepage
+Carex ×pseudofulva Fernald
+Carex ×leutzii Kneucker
+Carex ×leutzii var. pseudofulva (Fernald) B. Boivin
+Carex ×nubens Lepage
+Carex ×mucronulata Holmberg
+Carex ×kuekenthaliana Appel & Bruckner
+Carex ×senayi Raymond
+Carex ×aquanigra B. Boivin
+Carex ×hibernica A. Bennett
+Carex ×halophila sensu B. Boivin p.p.
+Carex ×grahamii Boott
+Carex ×anticostensis (Fernald) Lepage
+Carex ×mainensis Porter ex Britton
+Carex ×gardneri Lepage
+Carex ×ruedtii Kneucker
+Carex ×xanthina Fernald
+Carex ×leutzii var. xanthina (Fernald) B. Boivin
+Eriophorum ×rousseauianum Raymond
+Eriophorum ×gauthieri B. Boivin
+Scirpus ×oblongus T. Koyama
+Equisetum ×trachyodon (A. Braun) W.D.J. Koch
+Andromeda ×jamesiana Lepage
+Arctostaphylos ×victorinii Rolland-Germain
+Medicago ×varia Martyn
+Tritonia ×crocosmiiflora (Lemoine) G. Nicholson
+Mentha ×piperita var. citrata (Ehrhart) B. Boivin
+Mentha ×gracilis Sole
+Lycopodium ×habereri House
+Lycopodium ×zeilleri (Rouy) Greuter & Burdet
+Nuphar ×interfluitans Fernald
+Nuphar ×hybrida (Peck) Bergmans
+Nymphaea ×fletcheri G. Lawson
+Cypripedium ×favillianum Curtis
+Cypripedium ×landonii A. Gray
+Platanthera ×keenanii P.M. Brown nom. inval.
+Abies ×phanerolepis (Fernald) T.S. Liu
+×Agroelymus bowdenii B. Boivin
+Agropyron ×brevifolium Scribner
+×Agroelymus mossii Lepage
+Agropyron ×pseudorepens Scribner & J.G. Smith
+Elymus ×vancouverensis Vasey
+Poa ×fibrata Swallen
+×Dupoa labradorica (Steudel) J. Cayouette & Darbyshire
+Hordeum ×montanense Scribner
+×Elytesion montanense (Scribner) Barkworth & D.R. Dewey
+Elymus ×hirtiflorus Hitchcock
+×Agroelymus hirtiflorus (Hitchcock) Bowden
+×Agroelymus turneri Lepage
+×Elyhordeum dutillyanum Lepage
+Polygonum ×bohemicum (Chrtek & Chrtkova) Zika & Jacobson
+Rumex ×crispoobtusifolius Meisner
+Potamogeton ×subnitens Hagström
+Potamogeton ×suecicus K. Richter
+Eranthis ×tubergenii Hoog
+Ranunculus ×spetsbergensis (Nathorst) Hadac
+Fragaria ×ananassa var. cuneifolia (Nuttall ex Howell) Staudt
+Geum ×macranthum auct. non (Kearney) B. Boivin
+Rubus ×amicalis Blanchard
+Rubus ×elegantulus Blanchard
+Rubus ×pergratus Blanchard
+Sorbus ×arsenii Britton ex L. Arsène
+Galium ×ochroleucum C.F. Wolff
+Populus ×polygonifolia F.G. Bernard
+Populus ×gileadensis Rouleau
+Populus ×bernardii B. Boivin
+Populus ×dutillyi Lepage
+Populus ×barnesii W.H. Wagner
+Salix ×subsericea (Andersson) C.K. Schneider
+Salix ×paraleuca Fernald
+Salix ×pellicolor Lepage
+Salix ×pendulina var. elegantissima (K. Koch) Meikle
+Salix ×chrysocoma Dode
+Salix ×sericans Tausch ex A. Kerner
+Petunia ×hybrida E. Vilmorin
+Verbena ×dodgei B. Boivin
+Verbena ×paniculatistricta Engelmann
+Viola ×parca House
+Viola ×fernaldii House
+Viola ×greenei House
+Viola ×lavandulacea E.P. Bicknell
+×Agroelymus ungavensis (Louis-Marie) Lepage
+Agropyron ×ungavense Louis-Marie
+Elymus ×uclueletensis Bowden
+×Agroelymus ontariensis Lepage
+×Agroelymus jamesensis Lepage
+×Agroelymus jamesensis var. anticostensis Lepage
+×Elymordeum littorale H.J. Hodgson & W.W. Mitchell
+Prenanthes ×mainensis A. Gray
+Potamogeton ×perplexus A. Bennett
+Montbretia ×crocosmiiflora Lemoine
+Habenaria ×media (Rydberg) G.G. Niles
+Spiranthes ×steigeri Correll
+Pyrus ×amphigenea Domin ex Dostálek
+×Elytesion macounii (Vasey) Barkworth & D.R. Dewey
+Poa ×tormentuosa Butters & Abbe
+Sorghum ×drummondii (Steudel) Millspaugh & Chase
+Carex ×haematolepis subsp. kattegatensis (Almquist) Nyman
+Huperzia appalachiana × Huperzia selago
+Phippsia ×algidiformis (Harry Smith) Tzvelev
+Hieracium ×floribundum Wimmer & Grabowski
+Carex atratiformis × Carex miliaris
+Carex Carex bigelowii × Carex saxatilis var. rhomalea
+Carex impressa × Carex lanuginosa
+Carex limosa × Carex salina
+Lasallea ×amethystina (Nuttall) Semple & Brouillet
+Swida ×slavinii (Rehder) Holub
+Swida ×acadiensis (Fernald) Soják
+Juncus ×buchenaui Dörfler nom. illeg.
+Coptidium ×spitsbergense (Hadac) Elven nom. illeg.
+Rubus ×adjacens Fernald
+Rubus ×parlinii L.H. Bailey
+Rubus ×trifrons Blanchard
+Rubus ×tardatus Blanchard
+Rubus ×spiculosus Fernald
+Rubus ×zaplutus L.H. Bailey
+Drosera ×anglica var. linglica (Kusakabe ex R. Gauthier & Gervais) Schlauer
+Drosera ×anglica var. woodii (R. Gauthier & Gervais) Schlauer
+Rubus ×multiformis Blanchard
+Rubus ×arcuans Fernald & H. St.John
+Rubus ×bigelovianus L.H. Bailey
+Rubus ×severus Brainerd ex Fernald
+Rubus ×aculifer Fernald
+Rubus ×adenocaulis Fernald
+Rubus ×bracteolifer Fernald
+Rubus ×laevior (L.H. Bailey) Fernald
+Rubus ×alter L.H. Bailey
+Rubus ×setospinosus L.H. Bailey
+Rubus ×rixosus L.H. Bailey
+Rubus ×janssonii L.H. Bailey
+Rubus ×akermanii Fernald
+Rubus ×darlingtonii L.H. Bailey
+Rubus ×hypolasius Fernald & Brackett
+Rubus ×largus L.H. Bailey
+Rubus ×grandidens L.H. Bailey
+Rubus ×harmonicus L.H. Bailey
+Rubus ×tholiformis Fernald
+Persicaria ×fennica (Reiersen) Stace
+Aconogonon ×fennicum Reiersen
+Platanus ×acerifolia (Aiton) Willdenow
+Carex ×subreducta Lepage
+Circaea ×intermedia auct. non Ehrhart
+Rorippa ×prostrata (Bergeret) Schinz & Thellung
+Gymnocarpium dryopteris subsp. ×brittonianum Sarvela
+×Elymordeum schaackianum Bowden
+×Elytesion schaackianum (Bowden) Barkworth & D.R. Dewey
+×Horderoegneria chatangensis (Roshevitz) Tzvelev
+Rubus ×segnis L.H. Bailey
+Rubus ×emeritus L.H. Bailey
+Rubus ×fraternalis L.H. Bailey
+Rubus ×licens L.H. Bailey
+Rubus ×fraternus Brainerd & Peitersen nom. illeg.
+Isoetes ×gravesii A.A. Eaton
+Betula ×caerulea Blanchard
+Euphorbia ×intercedens Podpera nom. illeg.
+Euphorbia ×podperae Croizat
+Euphorbia ×jucula Prodán
+Tilia ×stellata Hartig
+Viola ×bissellii House
+Nierembergia ×atkinsiana Sweet
+Spartina ×townsendii H. Groves & J. Groves
+Lappa ×notha Ruhmer
+×Elyhordeum pilosilemma (W.W. Mitchell & H.J. Hodgson) Barkworth
+×Agrohordeum pilosilemma W.W. Mitchell & H.J. Hodgson
+×Elytesion pilosilemma (W.W. Mitchell & H.J. Hodgson) Barkworth & D.R. Dewey
+Aspidium ×boottii Tuckerman
+Aster anticostense × Aster novi-belgii var. novi-belgii
+Aster gaspensis × Aster novi-belgii
+Sorbus americana × Sorbus aucuparia
+Aster laevis × Aster lanceolatus
+Aster laevis × Aster simplex
+Aster lanceolatus × Aster lateriflorus
+Aster lateriflorus × Aster paniculatus
+Asterales lateriflorus × Aster simplex
+Potamogeton perfoliatus × Potamogeton richardsonii
+Populus ×andrewsii Sargent
+Rubus ×multilicius L.H. Bailey
+Rubus ×noveboracus L.H. Bailey
+Rubus ×amabilis Blanchard nom. illeg.
+Scirpus ×atratus Fernald
+Rubus pensilvanicus × Rubus setosus
+Solidago rugosa subsp. rugosa var. rugosa × Solidago sempervirens subsp. sempervirens Desfontaines
+Solidago hispida × Solidago macrophylla
+Solidago ptarmidoides × Solidago riddellii
+Polygonum ×fennicum (Reiersen) S.R. Majorov
+Crataegus ×pausiaca Ashe
+Euphrasia ×aequalis Callen
+Euphrasia ×vestita Callen
+Drosera ×belezeana auct. non E.G. Camus
