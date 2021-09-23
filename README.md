@@ -10,6 +10,8 @@ Documentation of our work during the BiCIKL Hackathon
   - [Parsing Hybrid Formulas](#parsing-hybrid-formulas-1)
     - [Splitting out the parents](#splitting-out-the-parents)
     - [pivoting](#pivoting)
+  - [Plotting Hybrid Parents](#plotting-hybrid-parents)
+  - [GBIF Checklists](#gbif-checklists)
 
 ### NB: These are the multiplication symbols in Unicode
 * U+00D7 × Multiplication sign (HTML &#215; · &times;) - This is the most common hybrid indictor used
@@ -274,4 +276,19 @@ get_parents_pivoted <- function(hybrid_formula, delimiter) {
 }
 
 ```
+
+## Plotting Hybrid Parents
+Looking up the occurrences from the hybrid parents from [Parsing Hybrid Formulas](#parsing-hybrid-formulas) in GBIF, and then plotting them on maps using leaflet (also GBIF maps API) and convex hull range mapping (also using GBIF occurrence API)
+
+https://github.com/PietrH/1-lost_parents/blob/main/src/plotting_parents_on_map.R
+
+## GBIF Checklists
+
+GBIF checklists allow for `nameType == HYBRID`, Pieter and Marina collaborated in creating a script to query the GBIF species API and filtering the resulting checklist out to only contain plants. 
+
+Script: https://github.com/PietrH/1-lost_parents/blob/main/src/getting_hybrids_from_checklists_gbif.R
+
+Output: [data/2021-09-22_12-00_gbif_checklist_hybrids.csv](2021-09-22_12-00_gbif_checklist_hybrids.csv)
+
+
 
