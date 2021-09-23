@@ -282,6 +282,10 @@ Looking up the occurrences from the hybrid parents from [Parsing Hybrid Formulas
 
 https://github.com/PietrH/1-lost_parents/blob/main/src/plotting_parents_on_map.R
 
+An example for `Veronica hederifolia x triloba` (in red) interpreted as parent_a `Veronica hederifolia L.` (in blue) and parent_b `Veronica triloba (Opiz) A.Kern.` (in purple)
+
+![example_of_parent_mapping](data/parent_mapping_example2.PNG)
+
 ## GBIF Checklists
 
 GBIF checklists allow for `nameType == HYBRID`, Pieter and Marina collaborated in creating a script to query the GBIF species API and filtering the resulting checklist out to only contain plants. 
