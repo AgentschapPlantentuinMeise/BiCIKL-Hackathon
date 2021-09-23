@@ -139,3 +139,47 @@ GROUP BY
   4. These names were then parsed with the script of @PietrH
   5. This script identified the names that were hybrid formulas and those that were not, the latter are mostly hybrid names (e.g. `Symphytum ×uplandicum`)
   6. With the hybrid names, after harmonization of the `x` `×` `X` and `✕` and the removeal of the space before the epithet, the first two words were taken and a unique list of hybrid names was creates. These can be found in file hybridnamesFromOccurences.txt
+
+### VASCAN - Database of Vascular Plants of Canada
+The Database of Vascular Plants of Canada contains uniform hybrid formulas. These were used as a first test set to develop the hybrid formula parsing script from. Downloaded the dataset from `DOI:10.5886/zw3aqw` 
+
+Citation: Brouillet L (2020). Database of Vascular Plants of Canada (VASCAN). Version 37.9. Université de Montréal Biodiversity Centre. Checklist dataset https://doi.org/10.5886/zw3aqw accessed via GBIF.org on 2021-09-23. 
+
+Output at [data/vascan_hybrid_names.txt](data/vascan_hybrid_names.txt)
+
+## Parsing Hybrid Formulas
+
+Script here: https://github.com/PietrH/1-lost_parents/blob/main/src/parsing_hybrid_formulas.R
+
+### Detecting Hybrid Formulas
+
+First created R function to detect if a string was likely a hybrid formula. 
+
+Currently the function looks like this:
+```
+ ## check if it's a hybrid formula ------------------------------------------
+is_hybrid_formula <- function(taxon_name, hybrid_delimiter = ' x | X | × | ×') {
+  
+  # check length of input (currently one at a time please)
+  if (length(taxon_name) > 1) {
+    stop(sprintf("taxon_name has length %i, should be only 1", length(taxon_name)))
+  }
+  
+  ## taxon_name cleaner code
+  
+  taxon_name_clean <- 
+    stringr::str_remove_all(taxon_name,"\\?") %>% 
+    trimws()
+    
+  # split into parts 
+  parts <- stringi::stri_split_regex(taxon_name_clean, pattern = hybrid_delimiter) %>% unlist
+  
+  # check if there is more than one part
+   return(stringi::stri_count_words(parts[[1]]) > 1)
+}
+```
+
+It splits the input string by a set of delimiters, then it removes leading and trailing whitespace and all questionmarks, splits into parts by the delimiter and checks the length. 
+
+## Parsing Hybrid Formulas
+
