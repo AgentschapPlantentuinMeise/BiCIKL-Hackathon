@@ -288,7 +288,7 @@ GBIF checklists allow for `nameType == HYBRID`, Pieter and Marina collaborated i
 
 Script: https://github.com/PietrH/1-lost_parents/blob/main/src/getting_hybrids_from_checklists_gbif.R
 
-Output: [data/2021-09-22_12-00_gbif_checklist_hybrids.csv](2021-09-22_12-00_gbif_checklist_hybrids.csv)
+Output: [data/2021-09-22_12-00_gbif_checklist_hybrids.csv](data/2021-09-22_12-00_gbif_checklist_hybrids.csv)
 
 
 
