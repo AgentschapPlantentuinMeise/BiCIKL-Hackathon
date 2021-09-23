@@ -2,9 +2,9 @@
 Documentation of our work during the BiCIKL Hackathon
 
 ### NB: These are the multiplication symbols in Unicode
-* U+00D7 × MULTIPLICATION SIGN (HTML &#215; · &times;)
-* U+2715 ✕ MULTIPLICATION X (HTML &#10005;)
-* U+2716 ✖ HEAVY MULTIPLICATION X (HTML &#10006;)
+* U+00D7 × Multiplication sign (HTML &#215; · &times;) - This is the most common hybrid indictor used
+* U+2715 ✕ Multiplication X (HTML &#10005;)
+* U+2716 ✖ Heavy Multiplication X (HTML &#10006;)
 * U+2A09 ⨉ N-ARY TIMES OPERATOR (HTML &#10761;)
 * U+2A2F ⨯ VECTOR OR CROSS PRODUCT (HTML &#10799; · &Cross;)
 
